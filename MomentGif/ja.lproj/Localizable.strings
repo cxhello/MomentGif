@@ -20,4 +20,5 @@
 "error.failed_to_get_video" = "動画リソースの取得に失敗しました";
 "error.failed_to_create_destination" = "出力ファイルの作成に失敗しました";
 "error.conversion_failed" = "変換に失敗しました";
-"error.failed_to_save" = "フォトライブラリへの保存に失敗しました"; 
+"error.failed_to_save" = "フォトライブラリへの保存に失敗しました";
+"view_in_photos" = "写真で表示";

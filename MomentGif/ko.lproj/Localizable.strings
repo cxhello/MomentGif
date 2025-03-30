@@ -20,4 +20,5 @@
 "error.failed_to_get_video" = "비디오 리소스를 가져오지 못했습니다";
 "error.failed_to_create_destination" = "대상 파일을 생성하지 못했습니다";
 "error.conversion_failed" = "변환에 실패했습니다";
-"error.failed_to_save" = "사진에 저장하지 못했습니다"; 
+"error.failed_to_save" = "사진에 저장하지 못했습니다";
+"view_in_photos" = "사진에서 보기";

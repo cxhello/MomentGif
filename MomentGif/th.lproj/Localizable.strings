@@ -20,4 +20,5 @@
 "error.failed_to_get_video" = "ไม่สามารถเข้าถึงวิดีโอได้";
 "error.failed_to_create_destination" = "ไม่สามารถสร้างไฟล์ปลายทางได้";
 "error.conversion_failed" = "การแปลงล้มเหลว";
-"error.failed_to_save" = "ไม่สามารถบันทึกลงในรูปภาพได้"; 
+"error.failed_to_save" = "ไม่สามารถบันทึกลงในรูปภาพได้";
+"view_in_photos" = "ดูในรูปภาพ";

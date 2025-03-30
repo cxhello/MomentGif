@@ -20,4 +20,5 @@
 "error.failed_to_get_video" = "无法获取视频资源";
 "error.failed_to_create_destination" = "无法创建目标文件";
 "error.conversion_failed" = "转换失败";
-"error.failed_to_save" = "无法保存到相册"; 
+"error.failed_to_save" = "无法保存到相册";
+"view_in_photos" = "在相册中查看";

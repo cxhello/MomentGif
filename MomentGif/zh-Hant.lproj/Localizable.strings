@@ -20,4 +20,5 @@
 "error.failed_to_get_video" = "無法取得影片資源";
 "error.failed_to_create_destination" = "無法建立目標檔案";
 "error.conversion_failed" = "轉換失敗";
-"error.failed_to_save" = "無法儲存到相簿"; 
+"error.failed_to_save" = "無法儲存到相簿";
+"view_in_photos" = "在相簿中查看";

@@ -40,7 +40,12 @@ struct LivePhotoDetailView: View {
         .navigationTitle("convert_gif_title".localized)
         .navigationBarTitleDisplayMode(.inline)
         .alert("alert_title".localized, isPresented: $showingAlert) {
-            Button("ok".localized, role: .cancel) {}
+            HStack {
+                Button("ok".localized, role: .cancel) {}
+                Button("view_in_photos".localized) {
+                    openPhotosApp()
+                }
+            }
         } message: {
             Text(alertMessage)
         }
@@ -113,6 +118,12 @@ struct LivePhotoDetailView: View {
             }
         }
     }
+    
+    private func openPhotosApp() {
+        if let photosURL = URL(string: "photos-redirect://") {
+            UIApplication.shared.open(photosURL, options: [:], completionHandler: nil)
+        }
+    }
 }
 
 struct ConversionOptionsView: View {
@@ -156,4 +167,4 @@ struct ConversionOptionsView: View {
         .background(Color.gray.opacity(0.1))
         .cornerRadius(10)
     }
-} 
+}

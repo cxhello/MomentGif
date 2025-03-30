@@ -20,4 +20,5 @@
 "error.failed_to_get_video" = "Falha ao obter recurso de vídeo";
 "error.failed_to_create_destination" = "Falha ao criar arquivo de destino";
 "error.conversion_failed" = "Falha na conversão";
-"error.failed_to_save" = "Falha ao salvar em Fotos"; 
+"error.failed_to_save" = "Falha ao salvar em Fotos";
+"view_in_photos" = "Ver em Fotos";

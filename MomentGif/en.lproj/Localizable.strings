@@ -19,4 +19,5 @@
 "error.failed_to_get_video" = "Failed to get video resource";
 "error.failed_to_create_destination" = "Failed to create destination file";
 "error.conversion_failed" = "Conversion failed";
-"error.failed_to_save" = "Failed to save to Photos"; 
+"error.failed_to_save" = "Failed to save to Photos";
+"view_in_photos" = "View in Photos";

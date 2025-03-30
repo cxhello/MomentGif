@@ -124,28 +124,31 @@ actor GIFConverter {
     ) async throws {
         let generator = AVAssetImageGenerator(asset: avAsset)
         generator.appliesPreferredTrackTransform = true
+        generator.requestedTimeToleranceBefore = .zero
+        generator.requestedTimeToleranceAfter = .zero
         generator.maximumSize = CGSize(
-            width: 480 * options.scale,
-            height: 480 * options.scale
+            width: min(480 * options.scale, 1920),
+            height: min(480 * options.scale, 1920)
         )
         
         let duration = try await avAsset.load(.duration)
+        let actualFrameCount = Int(duration.seconds * Double(options.frameRate))
+        let frameDuration = 1.0 / Double(options.frameRate)
+        
         let frameProperties = [
             kCGImagePropertyGIFDictionary: [
-                kCGImagePropertyGIFDelayTime: 1.0 / Double(options.frameRate)
+                kCGImagePropertyGIFDelayTime: frameDuration,
+                kCGImagePropertyGIFUnclampedDelayTime: frameDuration
             ]
         ] as CFDictionary
         
-        let frameCount = Int(duration.seconds * Double(options.frameRate))
-        let frameDuration = duration.seconds / Double(frameCount)
-        
-        for frameNumber in 0..<frameCount {
-            let progress = Double(frameNumber) / Double(frameCount)
+        for frameNumber in 0..<actualFrameCount {
+            let progress = Double(frameNumber) / Double(actualFrameCount)
             await MainActor.run {
                 progressHandler(progress)
             }
             
-            let time = CMTime(seconds: Double(frameNumber) * frameDuration, preferredTimescale: 600)
+            let time = CMTime(seconds: Double(frameNumber) * frameDuration, preferredTimescale: 1000)
             do {
                 let image = try await generator.image(at: time).image
                 CGImageDestinationAddImage(destination, image, frameProperties)
@@ -168,4 +171,4 @@ actor GIFConverter {
             PHAssetChangeRequest.creationRequestForAssetFromImage(atFileURL: url)
         }
     }
-} 
+}

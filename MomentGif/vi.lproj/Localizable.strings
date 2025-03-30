@@ -20,4 +20,5 @@
 "error.failed_to_get_video" = "Không thể lấy tài nguyên video";
 "error.failed_to_create_destination" = "Không thể tạo tệp đích";
 "error.conversion_failed" = "Chuyển đổi thất bại";
-"error.failed_to_save" = "Không thể lưu vào Ảnh"; 
+"error.failed_to_save" = "Không thể lưu vào Ảnh";
+"view_in_photos" = "Xem trong Ảnh";

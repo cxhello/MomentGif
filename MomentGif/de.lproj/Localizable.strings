@@ -20,4 +20,5 @@
 "error.failed_to_get_video" = "Videoquelle konnte nicht geladen werden";
 "error.failed_to_create_destination" = "Zieldatei konnte nicht erstellt werden";
 "error.conversion_failed" = "Umwandlung fehlgeschlagen";
-"error.failed_to_save" = "Konnte nicht in Fotos gespeichert werden"; 
+"error.failed_to_save" = "Konnte nicht in Fotos gespeichert werden";
+"view_in_photos" = "In Fotos anzeigen";
