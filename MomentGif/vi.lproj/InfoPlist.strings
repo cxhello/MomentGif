@@ -1,0 +1,3 @@
+"CFBundleDisplayName" = "MomentGif";
+"NSPhotoLibraryUsageDescription" = "Cần quyền truy cập để chọn Ảnh động và lưu GIF";
+"NSPhotoLibraryAddUsageDescription" = "Cần quyền truy cập để lưu GIF đã tạo"; 

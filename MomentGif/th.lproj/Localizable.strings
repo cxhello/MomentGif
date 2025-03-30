@@ -1,0 +1,23 @@
+/* เวอร์ชันภาษาไทย */
+"live_photos_title" = "Live Photos";
+"convert_gif_title" = "แปลงเป็น GIF";
+"select_photo_prompt" = "กรุณาเลือก Live Photo";
+"converting_progress" = "กำลังแปลง... %d%%";
+"save_success" = "บันทึก GIF ลงในรูปภาพแล้ว";
+"convert_button" = "เริ่มแปลง";
+"permission_needed" = "ต้องการสิทธิ์การเข้าถึงรูปภาพ";
+"permission_description" = "ต้องการสิทธิ์เพื่อเลือก Live Photos และบันทึก GIF";
+"authorize_access" = "อนุญาต";
+"settings" = "ตั้งค่า";
+"cancel" = "ยกเลิก";
+"alert_title" = "แจ้งเตือน";
+"ok" = "ตกลง";
+"frame_rate" = "เฟรมเรต: %d";
+"quality" = "คุณภาพ: %d%%";
+"scale" = "ขนาด: %.1f เท่า";
+"conversion_options" = "ตัวเลือกการแปลง";
+"conversion_failed" = "การแปลงล้มเหลว";
+"error.failed_to_get_video" = "ไม่สามารถเข้าถึงวิดีโอได้";
+"error.failed_to_create_destination" = "ไม่สามารถสร้างไฟล์ปลายทางได้";
+"error.conversion_failed" = "การแปลงล้มเหลว";
+"error.failed_to_save" = "ไม่สามารถบันทึกลงในรูปภาพได้"; 

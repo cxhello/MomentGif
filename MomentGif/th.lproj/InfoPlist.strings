@@ -1,0 +1,3 @@
+"CFBundleDisplayName" = "MomentGif";
+"NSPhotoLibraryUsageDescription" = "ต้องการสิทธิ์เพื่อเลือก Live Photos และบันทึก GIF";
+"NSPhotoLibraryAddUsageDescription" = "ต้องการสิทธิ์เพื่อบันทึก GIF ที่สร้าง"; 

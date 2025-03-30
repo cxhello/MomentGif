@@ -1,0 +1,23 @@
+/* Deutsche Version */
+"live_photos_title" = "Live Photos";
+"convert_gif_title" = "In GIF umwandeln";
+"select_photo_prompt" = "Bitte wählen Sie ein Live Photo";
+"converting_progress" = "Umwandlung läuft... %d%%";
+"save_success" = "GIF wurde in Fotos gespeichert";
+"convert_button" = "Umwandlung starten";
+"permission_needed" = "Fotozugriff erforderlich";
+"permission_description" = "Zugriff auf Fotos ist erforderlich, um Live Photos auszuwählen und GIFs zu speichern";
+"authorize_access" = "Zugriff erlauben";
+"settings" = "Einstellungen";
+"cancel" = "Abbrechen";
+"alert_title" = "Hinweis";
+"ok" = "OK";
+"frame_rate" = "Bildrate: %d";
+"quality" = "Qualität: %d%%";
+"scale" = "Skalierung: %.1fx";
+"conversion_options" = "Konvertierungsoptionen";
+"conversion_failed" = "Umwandlung fehlgeschlagen";
+"error.failed_to_get_video" = "Videoquelle konnte nicht geladen werden";
+"error.failed_to_create_destination" = "Zieldatei konnte nicht erstellt werden";
+"error.conversion_failed" = "Umwandlung fehlgeschlagen";
+"error.failed_to_save" = "Konnte nicht in Fotos gespeichert werden"; 

@@ -1,0 +1,23 @@
+/* Phiên bản tiếng Việt */
+"live_photos_title" = "Ảnh động";
+"convert_gif_title" = "Chuyển đổi sang GIF";
+"select_photo_prompt" = "Vui lòng chọn Ảnh động";
+"converting_progress" = "Đang chuyển đổi... %d%%";
+"save_success" = "Đã lưu GIF vào Ảnh";
+"convert_button" = "Bắt đầu chuyển đổi";
+"permission_needed" = "Cần quyền truy cập Ảnh";
+"permission_description" = "Cần quyền truy cập để chọn Ảnh động và lưu GIF";
+"authorize_access" = "Cấp quyền";
+"settings" = "Cài đặt";
+"cancel" = "Hủy";
+"alert_title" = "Thông báo";
+"ok" = "OK";
+"frame_rate" = "Tốc độ khung hình: %d";
+"quality" = "Chất lượng: %d%%";
+"scale" = "Tỷ lệ: %.1f";
+"conversion_options" = "Tùy chọn chuyển đổi";
+"conversion_failed" = "Chuyển đổi thất bại";
+"error.failed_to_get_video" = "Không thể lấy tài nguyên video";
+"error.failed_to_create_destination" = "Không thể tạo tệp đích";
+"error.conversion_failed" = "Chuyển đổi thất bại";
+"error.failed_to_save" = "Không thể lưu vào Ảnh"; 

@@ -1,0 +1,23 @@
+/* 한국어 버전 */
+"live_photos_title" = "라이브 포토";
+"convert_gif_title" = "GIF 변환";
+"select_photo_prompt" = "라이브 포토를 선택하세요";
+"converting_progress" = "변환 중... %d%%";
+"save_success" = "GIF가 사진에 저장되었습니다";
+"convert_button" = "변환 시작";
+"permission_needed" = "사진 접근 권한 필요";
+"permission_description" = "라이브 포토 선택 및 GIF 저장을 위해 사진 접근 권한이 필요합니다";
+"authorize_access" = "권한 허용";
+"settings" = "설정으로 이동";
+"cancel" = "취소";
+"alert_title" = "알림";
+"ok" = "확인";
+"frame_rate" = "프레임 속도：%d";
+"quality" = "품질：%d%%";
+"scale" = "배율：%.1f배";
+"conversion_options" = "변환 설정";
+"conversion_failed" = "변환 실패";
+"error.failed_to_get_video" = "비디오 리소스를 가져오지 못했습니다";
+"error.failed_to_create_destination" = "대상 파일을 생성하지 못했습니다";
+"error.conversion_failed" = "변환에 실패했습니다";
+"error.failed_to_save" = "사진에 저장하지 못했습니다"; 

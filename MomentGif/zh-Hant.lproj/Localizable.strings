@@ -1,0 +1,23 @@
+/* 繁體中文版本 */
+"live_photos_title" = "實況照片";
+"convert_gif_title" = "轉換為GIF";
+"select_photo_prompt" = "請選擇實況照片";
+"converting_progress" = "正在轉換... %d%%";
+"save_success" = "GIF已儲存至相簿";
+"convert_button" = "開始轉換";
+"permission_needed" = "需要相簿存取權限";
+"permission_description" = "需要存取相簿來選擇實況照片並儲存轉換後的GIF";
+"authorize_access" = "前往授權";
+"settings" = "前往設定";
+"cancel" = "取消";
+"alert_title" = "提示";
+"ok" = "確定";
+"frame_rate" = "幀率：%d";
+"quality" = "品質：%d%%";
+"scale" = "縮放：%.1f倍";
+"conversion_options" = "轉換設定";
+"conversion_failed" = "轉換失敗";
+"error.failed_to_get_video" = "無法取得影片資源";
+"error.failed_to_create_destination" = "無法建立目標檔案";
+"error.conversion_failed" = "轉換失敗";
+"error.failed_to_save" = "無法儲存到相簿"; 

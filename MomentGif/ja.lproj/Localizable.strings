@@ -1,0 +1,23 @@
+/* 日本語版 */
+"live_photos_title" = "Live Photos";
+"convert_gif_title" = "GIFに変換";
+"select_photo_prompt" = "Live Photoを選択してください";
+"converting_progress" = "変換中... %d%%";
+"save_success" = "GIFをフォトライブラリに保存しました";
+"convert_button" = "変換開始";
+"permission_needed" = "写真へのアクセス許可が必要です";
+"permission_description" = "Live Photoの選択とGIFの保存には写真へのアクセスが必要です";
+"authorize_access" = "許可する";
+"settings" = "設定へ";
+"cancel" = "キャンセル";
+"alert_title" = "お知らせ";
+"ok" = "OK";
+"frame_rate" = "フレームレート：%d";
+"quality" = "品質：%d%%";
+"scale" = "拡大率：%.1f倍";
+"conversion_options" = "変換設定";
+"conversion_failed" = "変換に失敗しました";
+"error.failed_to_get_video" = "動画リソースの取得に失敗しました";
+"error.failed_to_create_destination" = "出力ファイルの作成に失敗しました";
+"error.conversion_failed" = "変換に失敗しました";
+"error.failed_to_save" = "フォトライブラリへの保存に失敗しました"; 

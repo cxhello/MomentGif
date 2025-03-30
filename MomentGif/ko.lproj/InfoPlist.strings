@@ -1,0 +1,3 @@
+"CFBundleDisplayName" = "MomentGif";
+"NSPhotoLibraryUsageDescription" = "라이브 포토 선택 및 GIF 저장을 위해 사진 접근 권한이 필요합니다";
+"NSPhotoLibraryAddUsageDescription" = "변환된 GIF를 저장하기 위해 사진 접근 권한이 필요합니다"; 

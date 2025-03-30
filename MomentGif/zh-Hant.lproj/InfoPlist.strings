@@ -1,0 +1,3 @@
+"CFBundleDisplayName" = "MomentGif";
+"NSPhotoLibraryUsageDescription" = "需要存取相簿來選擇實況照片並儲存產生的GIF圖片";
+"NSPhotoLibraryAddUsageDescription" = "需要存取相簿來儲存產生的GIF圖片"; 

@@ -1,0 +1,3 @@
+"CFBundleDisplayName" = "MomentGif";
+"NSPhotoLibraryUsageDescription" = "Live Photoの選択とGIFの保存のため、写真へのアクセスが必要です";
+"NSPhotoLibraryAddUsageDescription" = "変換したGIFを保存するため、写真へのアクセスが必要です"; 

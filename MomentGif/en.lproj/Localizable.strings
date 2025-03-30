@@ -1,0 +1,22 @@
+/* 英文版本 (en) */
+"live_photos_title" = "Live Photos";
+"convert_gif_title" = "Convert to GIF";
+"select_photo_prompt" = "Please select a Live Photo";
+"converting_progress" = "Converting... %d%%";
+"save_success" = "GIF has been saved to Photos";
+"convert_button" = "Convert to GIF";
+"permission_needed" = "Photo Access Required";
+"permission_description" = "Please allow access to photos to select Live Photos for conversion.";
+"authorize_access" = "Authorize Access";
+"settings" = "Settings";
+"cancel" = "Cancel";
+"alert_title" = "Notice";
+"ok" = "OK";
+"frame_rate" = "Frame Rate: %d";
+"quality" = "Quality: %d%%";
+"scale" = "Scale: %.1fx";
+"conversion_options" = "Conversion Options";
+"error.failed_to_get_video" = "Failed to get video resource";
+"error.failed_to_create_destination" = "Failed to create destination file";
+"error.conversion_failed" = "Conversion failed";
+"error.failed_to_save" = "Failed to save to Photos"; 

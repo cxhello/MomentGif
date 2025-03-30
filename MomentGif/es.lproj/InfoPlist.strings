@@ -1,0 +1,3 @@
+"CFBundleDisplayName" = "MomentGif";
+"NSPhotoLibraryUsageDescription" = "Se necesita acceso a las fotos para seleccionar Live Photos y guardar GIFs";
+"NSPhotoLibraryAddUsageDescription" = "Se necesita acceso a las fotos para guardar los GIFs generados"; 

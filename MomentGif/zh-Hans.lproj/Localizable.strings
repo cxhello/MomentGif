@@ -1,0 +1,23 @@
+/* 简体中文版本 */
+"live_photos_title" = "实况照片";
+"convert_gif_title" = "转换为GIF";
+"select_photo_prompt" = "请选择实况照片";
+"converting_progress" = "正在转换... %d%%";
+"save_success" = "GIF已保存至相册";
+"convert_button" = "开始转换";
+"permission_needed" = "需要相册访问权限";
+"permission_description" = "需要访问相册来选择实况照片并保存转换后的GIF";
+"authorize_access" = "前往授权";
+"settings" = "前往设置";
+"cancel" = "取消";
+"alert_title" = "提示";
+"ok" = "确定";
+"frame_rate" = "帧率：%d";
+"quality" = "质量：%d%%";
+"scale" = "缩放：%.1f倍";
+"conversion_options" = "转换设置";
+"conversion_failed" = "转换失败";
+"error.failed_to_get_video" = "无法获取视频资源";
+"error.failed_to_create_destination" = "无法创建目标文件";
+"error.conversion_failed" = "转换失败";
+"error.failed_to_save" = "无法保存到相册"; 
